@@ -1,0 +1,8 @@
+{
+  "name": "com-carval-cadastroPessoas",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
